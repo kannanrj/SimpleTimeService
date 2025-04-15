@@ -15,14 +15,16 @@
 The project demonstrates:
 
 - Containerizing a microservice with Docker and publishing it to DockerHub.
-![image](https://github.com/user-attachments/assets/859ce46a-95c3-41c5-b66f-3c8d29477d58)
-![Screenshot from 2025-04-14 23-41-11](https://github.com/user-attachments/assets/eaee9c07-b109-4bc3-94a2-034ce03ad724)
+![Screenshot from 2025-04-15 23-49-31](https://github.com/user-attachments/assets/f503610e-504d-40b9-a4e2-440fb3f7e5b6)
+![Screenshot from 2025-04-14 23-41-11](https://github.com/user-attachments/assets/206e03fe-2700-4dc1-a1d8-6ac7511bcaf9)
+
 
 - Deploying a secure, scalable AWS infrastructure (VPC, ECS, ALB) via Terraform.
-  ![Screenshot from 2025-04-15 23-52-56](https://github.com/user-attachments/assets/44b15261-daac-4534-9c98-f88dec8cc3c9)
-![image](https://github.com/user-attachments/assets/fb6eed39-bb52-456d-ace9-a281f2482877)
-![Screenshot from 2025-04-15 23-57-05](https://github.com/user-attachments/assets/17133d21-d801-42e4-af13-c303e161759c)
-![image](https://github.com/user-attachments/assets/ffb1573a-9973-4c01-9b33-e9f80b79db44)
+
+![Screenshot from 2025-04-15 23-52-56](https://github.com/user-attachments/assets/1fca25f7-68b4-480e-b230-1a9c228f60d9)
+![Screenshot from 2025-04-15 23-57-05](https://github.com/user-attachments/assets/89c4ee06-a087-4145-b6cd-44ddb126bb3d)
+![Screenshot from 2025-04-15 23-58-56](https://github.com/user-attachments/assets/2eb6b1f4-7d00-4dda-aa5e-7aad3299fb59)
+
 
 
 ## Repository Structure
