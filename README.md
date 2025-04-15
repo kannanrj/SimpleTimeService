@@ -24,6 +24,7 @@ The project demonstrates:
 ![Screenshot from 2025-04-15 23-52-56](https://github.com/user-attachments/assets/1fca25f7-68b4-480e-b230-1a9c228f60d9)
 ![Screenshot from 2025-04-15 23-57-05](https://github.com/user-attachments/assets/89c4ee06-a087-4145-b6cd-44ddb126bb3d)
 ![Screenshot from 2025-04-15 23-58-56](https://github.com/user-attachments/assets/2eb6b1f4-7d00-4dda-aa5e-7aad3299fb59)
+![Screenshot from 2025-04-15 23-56-17](https://github.com/user-attachments/assets/bd43f6f5-766c-4344-90c5-620fe1c0ba7c)
 
 
 
